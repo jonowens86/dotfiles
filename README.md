@@ -43,4 +43,3 @@ This repo is mainly for keeping my environment consistent and making it easier t
 - improve error handling in scripts
 - add more install scripts for other tools
 
-Closes # 1
