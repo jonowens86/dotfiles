@@ -32,3 +32,14 @@ cd dotfiles
 
 Each folder has its own README with instructions. You can go into the folder you want and run the script for that setup.
 
+## Why I made this
+
+This repo is mainly for keeping my environment consistent and making it easier to set things up again on a new system.
+
+## Future improvements
+
+- add more comments to scripts
+- expand bash aliases and functions
+- improve error handling in scripts
+- add more install scripts for other tools
+
