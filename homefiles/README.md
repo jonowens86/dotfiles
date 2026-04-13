@@ -35,7 +35,7 @@ I used a symlink so I don’t have to keep copying files over. If I change somet
 
 ## AI Use
 
-I used ChatGPT a little bit to help get started with the aliases and script, but I went through and adjusted things to fit what I actually wanted.
+I used ChatGPT a little to help get started, but I ended up writing and adjusting everything myself.
 
-Prompt was something like:
-"help me create a bash aliases file and install script for a dotfiles repo"
+The prompt I used was something like:
+“I’m trying to set up my dotfiles repo and want to include a bash aliases file and an install script, but I’m kinda stuck on how to structure it. Can you help me figure it out?”

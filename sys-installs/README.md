@@ -1,6 +1,6 @@
 # sys-installs
 
-This folder contains files related to Task 3 for my dotfiles repository.
+This folder contains files related to my dotfiles repository.
 
 ## Files
 
