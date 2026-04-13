@@ -23,3 +23,12 @@ Each script:
 - installs software automatically
 - avoids conflicts if the command already exists
 
+## How to use this repo
+
+Clone the repository:
+
+git clone https://github.com/jonowens86/dotfiles.git
+cd dotfiles
+
+Each folder has its own README with instructions. You can go into the folder you want and run the script for that setup.
+
