@@ -27,19 +27,21 @@ Each script:
 
 Clone the repository:
 
+```bash
 git clone https://github.com/jonowens86/dotfiles.git
 cd dotfiles
+```
 
-Each folder has its own README with instructions. You can go into the folder you want and run the script for that setup.
+Each folder has its own README with instructions. You can go into the folder you want and run the script for that setup. Depending on the setup, you may need to create symlinks or run install scripts with sudo.
 
 ## Why I made this
 
-This repo is mainly for keeping my environment consistent and making it easier to set things up again on a new system.
+I made this mainly to keep my environment consistent and make it easier to set things up again on a new system.
 
 ## Future improvements
 
-- add more comments to scripts
-- expand bash aliases and functions
-- improve error handling in scripts
-- add more install scripts for other tools
+- add more comments to scripts  
+- expand bash aliases and functions  
+- improve error handling in scripts  
+- add more install scripts for other tools  
 
